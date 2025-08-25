@@ -1,7 +1,7 @@
 # MCPBench示例项目 - 主程序
 
 def main():
-    print("Hello, MCPBench!")
+    print("Hello, Tuco!")
     return "Success"
 
 if __name__ == "__main__":
